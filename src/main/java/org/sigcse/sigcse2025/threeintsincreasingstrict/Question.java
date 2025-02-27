@@ -3,9 +3,11 @@ package org.sigcse.sigcse2025.threeintsincreasingstrict;
 import edu.illinois.cs.cs125.questioner.lib.Correct;
 
 /*
- * Create a public class named `Question` with a single class method named `areIncreasingStrict`.
- * Your method should accept three `int` arguments and return whether the first is strictly greater than the second
- * and the second is strictly greater than the third.
+ * Create a public class named `Question` with a single class method
+ * named `areIncreasingStrict`.
+ * Your method should accept three `int` arguments and return whether
+ * the first is strictly greater than the second and the second is
+ * strictly greater than the third.
  */
 
 @Correct(
