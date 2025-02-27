@@ -24,10 +24,7 @@ import edu.illinois.cs.cs125.questioner.lib.Correct;
  * ```
  */
 
-@Correct(
-  name = "Even Odd Flip",
-  author = "challen@illinois.edu",
-  version = "2024.7.0")
+@Correct(name = "Even Odd Flip", author = "challen@illinois.edu", version = "2024.7.0")
 public class EvenOddFlip {
   private boolean isEven;
 
