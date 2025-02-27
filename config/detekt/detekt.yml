@@ -1,0 +1,35 @@
+style:
+  FunctionOnlyReturningConstant:
+    active: false
+  MagicNumber:
+    active: false
+  UnusedPrivateMember:
+    active: false
+  ReturnCount:
+    max: 4
+  UtilityClassWithPublicConstructor:
+    active: false
+  NewLineAtEndOfFile:
+    active: false
+  LoopWithTooManyJumpStatements:
+    active: false
+  UseRequireNotNull:
+    active: false
+potential-bugs:
+  EqualsWithHashCodeExist:
+    active: false
+  ImplicitDefaultLocale:
+    active: false
+exceptions:
+  SwallowedException:
+    active: false
+  ThrowingExceptionsWithoutMessageOrCause:
+    active: false
+  TooGenericExceptionCaught:
+    active: false
+complexity:
+  ComplexCondition:
+    threshold: 6
+naming:
+  PackageNaming:
+    active: false
